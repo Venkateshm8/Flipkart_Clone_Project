@@ -1,0 +1,17 @@
+.logo img{
+    height: 30px;
+}
+.btn{
+    width: 60px;
+    height: 20px;
+    cursor: pointer;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+.text-h1{
+    padding: 5px;
+    text-align: center;
+}
+.my-h2{
+    margin:5px;
+}
